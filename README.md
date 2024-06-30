@@ -11,3 +11,6 @@
   <li><b>Note: Must provide necessary credentials in the following files to execute all test case smoothly:<b></li>
   <li>/support/commands.js, /fixture/example.js, to setup database in cypress-config.js</li>  
 </p>
+
+# Future update
+<li>Now DB testing has some issues, I will update DB testing section in near future</li>
