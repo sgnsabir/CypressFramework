@@ -1,4 +1,4 @@
-# Modern CypressFramework
+# CypressFramework
 <p>
   <li>Follow the following path to setup cypress</li>
   <li>Must install Node.js and setup environment veriable</li>
