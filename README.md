@@ -1,6 +1,6 @@
 # CypressFramework
 <p>
-  <li>Follow the following path to setup cypress</li>
+  <li>Follow the following instruction to setup cypress</li>
   <li>Must install Node.js and setup environment veriable</li>
   <li>Simply download the project.</li>
   <li>save the <b>cypress-config.js</b> file somewhere.</li>
