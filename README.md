@@ -13,4 +13,4 @@
 </p>
 
 # Future update
-<li>Now DB testing has some issues, I will update DB testing section in near future</li>
+<li>I will update DB testing section in near future</li>
